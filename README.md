@@ -1,1 +1,1 @@
-# Music_Generation
+# Deep Learning Techniques for Music Generation
